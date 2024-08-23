@@ -13,12 +13,12 @@ Welcome to the Groq Chat App! This project is a web-based chat application that 
 
 ## Installation
 To install the Groq Chat App, simply clone the repository and install the required dependencies:
-`git clone https://github.com/datascientistabhishek/groq-chat-app.git <br>
-cd groq-chat-app <br>
-pip install -r requirements.txt` <br>
+`git clone https://github.com/datascientistabhishek/groq-chat-app.git` <br>
+`cd groq-chat-app` <br>
+`pip install -r requirements.txt` <br>
 
 ## Usage
-Once installed, you can launch the app by running the following command:
+Once installed, you can launch the app by running the following command: <br>
 -`streamlit run app.py`<br>
 This will open a new browser window or tab, displaying the Groq Chat App interface. Simply type your questions or messages in the text area and hit enter to receive responses from the LLM.
 
