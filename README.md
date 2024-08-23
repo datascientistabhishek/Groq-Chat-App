@@ -12,14 +12,14 @@
 Welcome to the Groq Chat App! This project is a web-based chat application that utilizes the power of Large Language Models (LLMs) to provide intelligent and engaging conversations with users. Built using Streamlit and the Groq API, this app offers a seamless and intuitive interface for users to interact with cutting-edge language models.
 
 ## Installation
-To install the Groq Chat App, simply clone the repository and install the required dependencies:
+To install the Groq Chat App, simply clone the repository and install the required dependencies: <br>
 `git clone https://github.com/datascientistabhishek/groq-chat-app.git` <br>
 `cd groq-chat-app` <br>
 `pip install -r requirements.txt` <br>
 
 ## Usage
 Once installed, you can launch the app by running the following command: <br>
--`streamlit run app.py`<br>
+`streamlit run app.py`<br>
 This will open a new browser window or tab, displaying the Groq Chat App interface. Simply type your questions or messages in the text area and hit enter to receive responses from the LLM.
 
 ## Customization
