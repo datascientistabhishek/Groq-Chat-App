@@ -26,7 +26,8 @@ This will open a new browser window or tab, displaying the Groq Chat App interfa
 The Groq Chat App offers a range of customization options to tailor the conversation experience:
 - **LLM Selection:** Choose from a variety of powerful LLMs, such as Mixtral-8x7b-32768 or Llama-3.1-70b-versatile, to power your conversations.
 - **Conversational Memory:** Adjust the conversational memory length to control how much context the LLM retains from previous messages.
-
+## Demo Vedio
+https://github.com/user-attachments/assets/42d31184-b4ff-4ddc-b80a-9eb6e4d15f9a
 ## Contributing
 We welcome contributions to the Groq Chat App! If you have suggestions, improvements, or bug fixes, feel free to create a pull request or open an issue. Please refer to our contributing guidelines for more details.
 
